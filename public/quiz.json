@@ -97,16 +97,5 @@
             "None of the above."
         ],
         "answer": "Internal storage of the component."
-    },
-    {
-        "id": "10",
-        "question" : "What are the two ways to handle data in React?",
-        "options": [
-            "State & Props",
-            "Services & Components",
-            "State & Services",
-            "State & Component"
-        ],
-        "answer": "State & Props"
     }
 ]
